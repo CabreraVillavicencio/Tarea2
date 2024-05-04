@@ -1,0 +1,19 @@
+.cuadro {
+  height: 330px;
+  width: 250px;
+  border: 3px solid green;
+  position: absolute;
+  top: 25%;
+  left: 38%;
+  text-align: center;
+}
+
+.cuadro2 {
+  height: 640px;
+  width: 285px;
+  border: 3px solid green;
+  position: absolute;
+  top: 0%;
+  left: 38%;
+}
+
